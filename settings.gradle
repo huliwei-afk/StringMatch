@@ -1,0 +1,3 @@
+include ':StringTest'
+include ':app'
+rootProject.name = "StringMatch"
